@@ -6,7 +6,7 @@ function loguear()
 
     if(user=="bit" && pass=="2023")
     {
-        window.location="https://eleizac.github.io/bit06exercises/ejercicios.html";
+        window.location="https://eleizac.github.io/bit06ejercicios/ejercicios.html";
     }
     else
     {
