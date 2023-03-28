@@ -3,7 +3,8 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+
 }
 body{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./images/197091104_l.jpg);
@@ -25,12 +26,11 @@ main{
     position:center;
     backdrop-filter: blur(10px);
     background-color: rgba(255, 255, 255, 0.5);
-    color: black;
+    color: white;
     padding: 40px 80px;
     transition: all 500ms;
     text-align: center;
     float: center;
-    opacity: 0.5;
     margin-top: 150px;
    
 }
@@ -71,4 +71,8 @@ main{
     border: none;
     margin-top: 10px;
     outline: none;
+}
+
+.texto{
+    color: white;
 }
