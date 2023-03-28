@@ -42,7 +42,7 @@ main {
 .contenedor_principal div h3 h1 h4 {
   font-weight: 400;
   font-size: 50px;
-  color: white;
+  color: whitesmoke;
   margin-top: 20px;
 }
 .contenedor_principal input {
@@ -69,4 +69,7 @@ main {
   border: none;
   margin-top: 10px;
   outline: none;
+}
+.texto{
+  color: whitesmoke;
 }
